@@ -372,6 +372,18 @@ h1,h2,h3,h4,h5
 /* end contact */
 
 /* start footer */
+
+
+footer .container .row p a.designer{
+    text-decoration: none;
+    color: white;
+}
+
+footer .container .row p a.designer:hover{
+    font-weight: bold;
+}
+
+
 footer
     {
         border-top: 1px solid #090909;
