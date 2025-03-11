@@ -373,7 +373,6 @@ h1,h2,h3,h4,h5
 
 /* start footer */
 
-
 footer .container .row p a.designer{
     text-decoration: none;
     color: white;
@@ -382,7 +381,6 @@ footer .container .row p a.designer{
 footer .container .row p a.designer:hover{
     font-weight: bold;
 }
-
 
 footer
     {
